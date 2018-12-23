@@ -1,6 +1,6 @@
 {
-	"name": "file_metadata",
-	"version": "0.0.1",
+	"name": "fcc-file-metadata",
+	"version": "1.0.0",
 	"description": "API project for freeCodeCamp",
 	"main": "server.js",
 	"scripts": {
@@ -8,14 +8,14 @@
 	},
 	"dependencies": {
 		"express": "^5.0.0-alpha.2",
-		"cors": "^2.8.1"
+		"cors": "^2.8.5"
 	},
 	"engines": {
-		"node": "4.4.5"
+		"node": "10"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://hyperdev.com/#!/project/welcome-project"
+		"url": "git@github.com:MatejBransky/fcc-file-metadata.git"
 	},
 	"keywords": [
 		"node",
